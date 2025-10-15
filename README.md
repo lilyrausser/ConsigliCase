@@ -7,6 +7,7 @@ The system extracts text from PDFs, embeds the text into a Chroma vector databas
 ---
 
 ## Project Structure
+```
 LLM_NLP/
 │
 ├── data_loader.py # Loads and splits PDF text into manageable chunks
@@ -20,6 +21,7 @@ LLM_NLP/
 │
 ├── requirements.txt # Python dependencies
 └── README.md
+```
 
 
 ---
