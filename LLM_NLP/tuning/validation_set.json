@@ -1,0 +1,63 @@
+[
+    {
+      "company": "BMW",
+      "question": "What was BMW's total revenue in 2023?",
+      "answer": "€155.5 billion"
+    },
+    {
+      "company": "BMW",
+      "question": "What were BMW's profit figures for 2023?",
+      "answer": "€12.2 billion"
+    },
+    {
+      "company": "BMW",
+      "question": "What was BMW's total revenue in 2020?",
+      "answer": "€99.0 billion"
+    },
+    {
+      "company": "BMW",
+      "question": "What was BMW's total revenue in 2017?",
+      "answer": "€98.3 billion"
+    },
+    {
+      "company": "Ford",
+      "question": "What was Ford's total revenue in 2020?",
+      "answer": "$127.1 billion"
+    },
+    {
+      "company": "Ford",
+      "question": "What was Ford's total revenue in 2023?",
+      "answer": "$176.2 billion"
+    },
+    {
+      "company": "Ford",
+      "question": "What was Ford's profit in 2022?",
+      "answer": "-$2.0 billion"
+    },
+    {
+      "company": "Ford",
+      "question": "What was Ford's profit in 2023?",
+      "answer": "$4.3 billion"
+    },
+    {
+      "company": "Ford",
+      "question": "What key economic factors influenced Ford's performance in 2021?",
+      "answer": "Ford's 2021 performance was influenced by global semiconductor shortages, COVID-19 related supply chain disruptions, and intermittent factory shutdowns."
+    },
+    {
+      "company": "Tesla",
+      "question": "How much revenue did Tesla generate in 2023?",
+      "answer": "$96.77 billion"
+    },
+    {
+      "company": "Tesla",
+      "question": "What were Tesla's profit numbers for 2022 and 2023?",
+      "answer": "2022: $12.56 billion, 2023: $15.00 billion"
+    },
+    {
+      "company": "Tesla",
+      "question": "Which Tesla product is currently in the development stage?",
+      "answer": "Cybertruck (active production), Tesla Semi (pilot production), Tesla Roadster and Next Generation Platform (in development)"
+    }
+  ]
+  
